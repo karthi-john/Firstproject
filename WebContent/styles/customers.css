@@ -1,0 +1,50 @@
+table{
+ 		margin-top:40px;
+ 		margin-left:250px;
+ 		width:60%;
+ 		border:2px solid black;
+ 	}
+ 	th,td{
+ 		text-align:center;
+ 		border-left:2px solid black;
+ 		border-bottom:2px solid black;
+ 		border-collapse:collapse;
+ 		width:auto;
+ 		height:50px;
+ 	}
+ 	tr{
+ 		background-color: lightblue;
+ 		
+ 	}
+ 	th{
+ 	background-color: rgb(136, 138, 133);
+ 	color:white;
+ 	}
+ 	#dataform{
+ 		margin-left: 250px;
+ 	}
+ 	input[type=text],[type=submit] {
+  		width: auto;
+		padding: 12px 20px;
+		margin: 8px 0;
+		box-sizing: border-box;
+}
+	#add{
+		background-color:green;
+		color:white;
+	}
+	#delete{
+		background-color: red;
+		color:white;
+	}
+
+
+
+
+
+
+
+
+
+
+
